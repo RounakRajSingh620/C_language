@@ -8,4 +8,5 @@ int main(){
     printf("the value of variable a is %d\n", a);
     printf("the value of variable a is %d\n", *ptr);
     return 0;
-}
+    
+} 
